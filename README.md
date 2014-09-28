@@ -5,6 +5,9 @@ This is a project during my freshman time in hnu, and it belongs to one of the m
 
 So simple the program is, and I don't plan to keep on updating.
 
+I run this program in Visual C++ 6.0.
+
+
 Here are the functions of the system:
 
 
